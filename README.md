@@ -16,7 +16,7 @@ Course project repository for **Machine Learning (ML261 — Semester 261)** at H
 | 1 | `Nguyễn Phúc Nguyên` | `2352831` | [@MinusNguyen](https://github.com/MinusNguyen) | `nguyen.nguyenfeliks0612@hcmut.edu.vn` |
 | 2 | `Nguyễn Thành Nguyên` | `2352832` | [@FrogKingDead](https://github.com/FrogKingDead) | `nguyen.nguyenthanhk23@hcmut.edu.vn` |
 | 3 | `Đinh Ngọc Việt` | `2353317` | [@GemVii](https://github.com/GemVii) | `viet.dinhngoc2005@hcmut.edu.vn` |
-| 4 | `Lê Minh Trí` | `2353228` | [@TriLM2](https://github.com/TriLM2) | `[tri.leminh21050@hcmut.edu.vn]` |
+| 4 | `Lê Minh Trí` | `2353228` | [@TriLM2](https://github.com/TriLM2) | `tri.leminh21050@hcmut.edu.vn` |
 
 ---
 
